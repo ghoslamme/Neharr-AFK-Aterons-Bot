@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ApilageWorldeka.aternos.me",
-    "port": 17526,
+    "ip": "happyplayer11011.aternos.me:31708",
+    "port": 31708,
     "version": "",
     "try-creative": false
   },
